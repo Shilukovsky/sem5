@@ -1,0 +1,15 @@
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\bin\Debug\net6.0\Z32.exe
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\bin\Debug\net6.0\Z32.deps.json
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\bin\Debug\net6.0\Z32.runtimeconfig.json
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\bin\Debug\net6.0\Z32.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\bin\Debug\net6.0\Z32.pdb
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.csproj.AssemblyReference.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.AssemblyInfoInputs.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.AssemblyInfo.cs
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.csproj.CoreCompileInputs.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\refint\Z32.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.pdb
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\Z32.genruntimeconfig.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem5\Z32\obj\Debug\net6.0\ref\Z32.dll
